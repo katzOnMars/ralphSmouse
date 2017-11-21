@@ -5,7 +5,8 @@ const fs = require('fs');
 const data = require('./response.json');
 
 app.get('/', (req, res) => {
-  console.log(data);
+  console.log(JSON.parse(data));
+  console.log(req);
   res.json(data);
 });
 
