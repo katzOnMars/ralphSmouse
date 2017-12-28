@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "498175433034",
+    "firebase_url": "https://cats-on-mars.firebaseio.com",
+    "project_id": "cats-on-mars",
+    "storage_bucket": "cats-on-mars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498175433034:android:8648a2bc7da8ab99",
+        "android_client_info": {
+          "package_name": "com.CommDemo.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498175433034-grghnmojf1j8al784gqg4g24uhr7op56.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "498175433034-1dmhc29e55kbrjp2q4cma6rsltnkjqg4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "498175433034-t35rlmdscnvtub16c1nquj23laet1l4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcadrOuqxOQ_Cr7402TXiUnfByGczQICU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
